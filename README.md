@@ -11,6 +11,7 @@ Será um tópico do módulo por aula, cada aula no final de semana, sem duraçã
 
 ## Quais serão os tópicos?
 Então, aqui está o sumário do primeiro módulo, conhecimentos vamos usar para construir um motor de animação com JS:
+
 1. Introdução aos elementos da página HTML;
 2. Estilização dos elementos HTML, estrelando: 
   - Dando cores - e vida! - aos elementos.
